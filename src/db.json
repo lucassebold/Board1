@@ -1,0 +1,25 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "image": 1,
+      "name": "Ekyte",
+      "iconLeft": "arrow-left",
+      "iconRight": "arrow-left"
+    },
+    {
+      "id": 2,
+      "image": 1,
+      "name": "V4",
+      "iconLeft": "arrow-left",
+      "iconRight": "arrow-left"
+    },
+    {
+      "id": 3,
+      "image": 1,
+      "name": "Arezzo",
+      "iconLeft": "arrow-left",
+      "iconRight": "arrow-left"
+    }
+  ]
+}
